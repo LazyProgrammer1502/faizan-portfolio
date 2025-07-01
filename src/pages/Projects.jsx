@@ -20,6 +20,15 @@ const projects = [
     demo: "https://yourproject2.vercel.app",
     tech: ["MERN", "Cloudinary", "Google Maps"],
   },
+  {
+    title: "Developer Portfolio",
+    description:
+      " A personal portfolio built using React, Tailwind, Vite, and hosted on Vercel. Includes animated sections, scrollspy navbar, resume, and responsive design.",
+    image: "/portfolio.jpg",
+    github: "https://github.com/LazyProgrammer1502/faizan-portfolio",
+    demo: "https://muhammad-faizan-portfolio.vercel.app/",
+    tech: ["React", "Tailwind", "Vite"],
+  },
 ];
 
 export default function ProjectCards() {
