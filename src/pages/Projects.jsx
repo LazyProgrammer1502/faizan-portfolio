@@ -3,22 +3,13 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Medical Appointment System",
+    title: "Life Saver Kust",
     description:
-      "A full-stack MERN application to book, manage, and pay for appointments. Includes Stripe, email notifications, and admin dashboard.",
-    image: "/project1.png",
-    github: "https://github.com/yourname/project-1",
-    demo: "https://yourproject1.vercel.app",
-    tech: ["React", "Node", "MongoDB", "Stripe"],
-  },
-  {
-    title: "Property Booking Platform",
-    description:
-      "Find and book properties with a dynamic listing interface, Cloudinary image upload, and Google Maps.",
-    image: "/project2.png",
-    github: "https://github.com/yourname/project-2",
-    demo: "https://yourproject2.vercel.app",
-    tech: ["MERN", "Cloudinary", "Google Maps"],
+      "A responsive platform connecting patients with blood donors, managing donation events and certificates. Features role-based access with Super Admin and Admins for efficient donor and event management.",
+    image: "/lifesaverkust.jpeg",
+    github: "https://github.com/LazyProgrammer1502/blood-donation-frontend",
+    demo: "https://life-saver-kust.vercel.app/",
+    tech: ["React", "Node", "MongoDB", "Express", "Tailwind"],
   },
   {
     title: "Developer Portfolio",
