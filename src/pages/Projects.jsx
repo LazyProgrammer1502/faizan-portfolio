@@ -20,6 +20,15 @@ const projects = [
     demo: "https://muhammad-faizan-portfolio.vercel.app/",
     tech: ["React", "Tailwind", "Vite"],
   },
+    {
+    title: "Job Portal",
+    description:
+      "A job portal built with React, Node, MongoDB, and Express. It features user authentication, job listings, and application management for both job seekers and employers.",
+    image: "/jobs.jpg",
+    github: "https://github.com/LazyProgrammer1502/job-board.git",
+    demo: "https://job-board-ten-peach.vercel.app/jobs",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
+  },
 ];
 
 export default function ProjectCards() {
