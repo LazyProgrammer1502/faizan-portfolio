@@ -23,11 +23,38 @@ const projects = [
     {
     title: "Job Portal",
     description:
-      "A job portal built with React, Node, MongoDB, and Express. It features user authentication, job listings, and application management for both job seekers and employers.",
+      " Full-stack job board where employers post jobs and seekers apply. Features JWT auth, role-based access, file uploads, and email notifications.",
     image: "/jobs.png",
     github: "https://github.com/LazyProgrammer1502/job-board.git",
     demo: "https://job-board-ten-peach.vercel.app/jobs",
     tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
+  },
+    {
+    title: "ChatApp — Real-time Chat",
+    description:
+      "Real-time chat with DMs, group rooms, typing indicators, read receipts, and file sharing via Socket.io.",
+    image: "/chat-app.png",
+    github: " https://github.com/LazyProgrammer1502/chat-app",
+    demo: "https://chat-app-xi-nine-38.vercel.app",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "Socket.io", "cloudinary"],
+  },
+    {
+    title: "Auth System — JWT + Google OAuth",
+    description:
+      "Production-grade auth with JWT refresh token rotation, Google OAuth 2.0, forgot/reset password, and interactive Swagger API docs.",
+    image: "/auth-system.png",
+    github: "https://github.com/LazyProgrammer1502/auth-system",
+    demo: "https://auth-system-zeta-ten.vercel.app",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "passport.js", "Swagger"],
+  },
+    {
+    title: "Blog CMS — Content Management System",
+    description:
+      "Full-stack blog platform with TipTap rich text editor, admin panel, comment moderation, SEO fields, and Cloudinary image uploads.",
+    image: "/blog-cms.png",
+    github: "https://github.com/LazyProgrammer1502/blog-cms",
+    demo: "https://blog-cms-xi-eight.vercel.app",
+    tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "TipTap", "Cloudinary"],
   },
 ];
 
