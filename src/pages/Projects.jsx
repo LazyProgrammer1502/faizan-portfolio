@@ -30,6 +30,33 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
   },
   {
+    title: "EventSnap",
+    description:
+      "Event photo-sharing app — guests scan a QR code, upload photos from their phones, and view them in a live shared gallery. Images stored on Cloudinary.",
+    image: "/eventsnap.png",
+    github: "https://github.com/LazyProgrammer1502/eventsnap", // TODO: confirm repo URL
+    demo: "https://food-delivery-ecru-five.vercel.app", // TODO: replace with your EventSnap demo URL
+    tech: ["React", "Node.js", "MongoDB", "Cloudinary", "JWT"],
+  },
+  {
+    title: "Admin Dashboard",
+    description:
+      "Analytics dashboard with JWT auth and roles, product CRUD (search, sort, pagination), CSV export, and charts powered by a MongoDB aggregation pipeline.",
+    image: "/admin-dashboard.png",
+    github: "https://github.com/LazyProgrammer1502/admin-dashboard", // TODO: confirm repo URL
+    demo: "", // TODO: add your deployed demo URL
+    tech: ["React", "Node.js", "MongoDB", "Recharts", "JWT"],
+  },
+  {
+    title: "Food Delivery",
+    description:
+      "Food ordering platform with menu and category management, cart, order flow, JWT auth, and hardened APIs (Helmet, rate limiting, input sanitization).",
+    image: "/food-delivery.png",
+    github: "https://github.com/LazyProgrammer1502/food-delivery", // TODO: confirm repo URL
+    demo: "https://food-delivery-ecru-five.vercel.app",
+    tech: ["React", "Node.js", "Express", "MongoDB", "JWT"],
+  },
+  {
     title: "ChatApp",
     description:
       "Real-time chat with DMs, group rooms, typing indicators, read receipts, and file sharing via Socket.io.",
