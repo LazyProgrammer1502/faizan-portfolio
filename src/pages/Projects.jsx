@@ -33,9 +33,9 @@ const projects = [
     title: "EventSnap",
     description:
       "Event photo-sharing app — guests scan a QR code, upload photos from their phones, and view them in a live shared gallery. Images stored on Cloudinary.",
-    image: "/eventsnap.png",
-    github: "https://github.com/LazyProgrammer1502/eventsnap", // TODO: confirm repo URL
-    demo: "https://food-delivery-ecru-five.vercel.app", // TODO: replace with your EventSnap demo URL
+    image: "/event-snap.png",
+    github: "https://github.com/LazyProgrammer1502/event-snap",
+    demo: "https://event-snap-vert.vercel.app/",
     tech: ["React", "Node.js", "MongoDB", "Cloudinary", "JWT"],
   },
   {
@@ -43,8 +43,8 @@ const projects = [
     description:
       "Analytics dashboard with JWT auth and roles, product CRUD (search, sort, pagination), CSV export, and charts powered by a MongoDB aggregation pipeline.",
     image: "/admin-dashboard.png",
-    github: "https://github.com/LazyProgrammer1502/admin-dashboard", // TODO: confirm repo URL
-    demo: "", // TODO: add your deployed demo URL
+    github: "https://github.com/LazyProgrammer1502/admin-penal", 
+    demo: "https://admin-penal-sand.vercel.app/login", 
     tech: ["React", "Node.js", "MongoDB", "Recharts", "JWT"],
   },
   {
@@ -52,7 +52,7 @@ const projects = [
     description:
       "Food ordering platform with menu and category management, cart, order flow, JWT auth, and hardened APIs (Helmet, rate limiting, input sanitization).",
     image: "/food-delivery.png",
-    github: "https://github.com/LazyProgrammer1502/food-delivery", // TODO: confirm repo URL
+    github: "https://github.com/LazyProgrammer1502/food-delivery",
     demo: "https://food-delivery-ecru-five.vercel.app",
     tech: ["React", "Node.js", "Express", "MongoDB", "JWT"],
   },
