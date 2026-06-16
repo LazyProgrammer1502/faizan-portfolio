@@ -58,9 +58,9 @@ const Resume = () => {
             {
               title: "BS IN COMPUTER SCIENCE",
               duration:
-                "2022 - Present | Khushal Khan Khattak University, Karak",
+                "2022 - 2026 | Khushal Khan Khattak University, Karak",
               icon: <FaGraduationCap />,
-              desc: "Currently pursuing BS-CS with focus on data structures, software engineering, and full-stack web development.",
+              desc: "Completed Bachelor of Science in Computer Science (BS-CS) with a strong focus on Backend Development and MERN Stack (MongoDB, Express.js, React.js, Node.js) application development.",
             },
           ].map((item, index) => (
             <div key={index} className="relative">

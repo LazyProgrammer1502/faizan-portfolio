@@ -51,7 +51,7 @@ const Footer = () => {
             <FaLinkedin />
           </a>
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:faizanlala5699@gmail.com"
             className="hover:text-cyan-400 transition-transform hover:scale-110"
           >
             <FaEnvelope />
