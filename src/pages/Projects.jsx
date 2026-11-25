@@ -2,15 +2,15 @@ import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
-  {
-    title: "Life Saver Kust",
-    description:
-      "Blood donation platform connecting patients with donors, managing events and certificates. Role-based access with Super Admin and Admins.",
-    image: "/lifesaverkust.jpeg",
-    github: "https://github.com/LazyProgrammer1502/blood-donation-frontend",
-    demo: "https://life-saver-kust.vercel.app/",
-    tech: ["React", "Node", "MongoDB", "Express", "Tailwind"],
-  },
+  // {
+  //   title: "Life Saver Kust",
+  //   description:
+  //     "Blood donation platform connecting patients with donors, managing events and certificates. Role-based access with Super Admin and Admins.",
+  //   image: "/lifesaverkust.jpeg",
+  //   github: "https://github.com/LazyProgrammer1502/blood-donation-frontend",
+  //   demo: "https://life-saver-kust.vercel.app/",
+  //   tech: ["React", "Node", "MongoDB", "Express", "Tailwind"],
+  // },
   {
     title: "Developer Portfolio",
     description:
