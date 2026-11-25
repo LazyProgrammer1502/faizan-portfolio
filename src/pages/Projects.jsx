@@ -20,24 +20,24 @@ const projects = [
     demo: "https://muhammad-faizan-portfolio.vercel.app/",
     tech: ["React", "Tailwind", "Vite"],
   },
-  {
-    title: "Job Portal",
-    description:
-      "Full-stack job board — employers post jobs, seekers apply. JWT auth, role-based access, file uploads, email notifications.",
-    image: "/jobs.png",
-    github: "https://github.com/LazyProgrammer1502/job-board",
-    demo: "https://job-board-ten-peach.vercel.app/jobs",
-    tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
-  },
-  {
-    title: "EventSnap",
-    description:
-      "Event photo-sharing app — guests scan a QR code, upload photos from their phones, and view them in a live shared gallery. Images stored on Cloudinary.",
-    image: "/event-snap.png",
-    github: "https://github.com/LazyProgrammer1502/event-snap",
-    demo: "https://event-snap-vert.vercel.app/",
-    tech: ["React", "Node.js", "MongoDB", "Cloudinary", "JWT"],
-  },
+  // {
+  //   title: "Job Portal",
+  //   description:
+  //     "Full-stack job board — employers post jobs, seekers apply. JWT auth, role-based access, file uploads, email notifications.",
+  //   image: "/jobs.png",
+  //   github: "https://github.com/LazyProgrammer1502/job-board",
+  //   demo: "https://job-board-ten-peach.vercel.app/jobs",
+  //   tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
+  // },
+  // {
+  //   title: "EventSnap",
+  //   description:
+  //     "Event photo-sharing app — guests scan a QR code, upload photos from their phones, and view them in a live shared gallery. Images stored on Cloudinary.",
+  //   image: "/event-snap.png",
+  //   github: "https://github.com/LazyProgrammer1502/event-snap",
+  //   demo: "https://event-snap-vert.vercel.app/",
+  //   tech: ["React", "Node.js", "MongoDB", "Cloudinary", "JWT"],
+  // },
   {
     title: "Admin Dashboard",
     description:
@@ -65,15 +65,15 @@ const projects = [
     demo: "https://chat-app-xi-nine-38.vercel.app",
     tech: ["React", "Socket.io", "Node.js", "MongoDB"],
   },
-  {
-    title: "Auth System",
-    description:
-      "Production-grade auth — JWT refresh token rotation, Google OAuth 2.0, forgot/reset password, Swagger API docs.",
-    image: "/auth-system.png",
-    github: "https://github.com/LazyProgrammer1502/auth-system",
-    demo: "https://auth-system-zeta-ten.vercel.app",
-    tech: ["React", "Node.js", "Passport.js", "MongoDB", "Swagger"],
-  },
+  // {
+  //   title: "Auth System",
+  //   description:
+  //     "Production-grade auth — JWT refresh token rotation, Google OAuth 2.0, forgot/reset password, Swagger API docs.",
+  //   image: "/auth-system.png",
+  //   github: "https://github.com/LazyProgrammer1502/auth-system",
+  //   demo: "https://auth-system-zeta-ten.vercel.app",
+  //   tech: ["React", "Node.js", "Passport.js", "MongoDB", "Swagger"],
+  // },
   {
     title: "Blog CMS",
     description:
